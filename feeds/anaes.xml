@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Daily Dose - Anaesthesia</title>
+  <link>http://www.dailydose.icu</link>
+  <item>
+    <title>Advances in General Anaesthesia</title>
+    <authors>Dr. John Doe, Dr. Jane Smith</authors>
+    <date>2023-01-15</date>
+    <abstract>Exploring the latest trends and techniques in general anaesthesia to ensure safety and efficiency.</abstract>
+    <doi>10.1001/journalofanaesthesia.2023.01.015</doi>
+    <category>Anaesthesia</category>
+    <subcat></subcat>
+    <classic>false</classic>
+  </item>
+  <item>
+    <title>Cardiac Anaesthesia: A Comprehensive Overview</title>
+    <authors>Dr. Emily White, Dr. Aaron Black</authors>
+    <date>2022-12-01</date>
+    <abstract>Understanding the nuances of anaesthesia in cardiac surgeries and its impact on patient recovery times.</abstract>
+    <doi>10.1001/journalofanaesthesia.2022.12.001</doi>
+    <category>Anaesthesia</category>
+    <subcat>Cardiac</subcat>
+    <classic>false</classic>
+  </item>
+  <item>
+    <title>Pediatric Anaesthesia: Best Practices</title>
+    <authors>Dr. Susan Blue, Dr. Gary Green</authors>
+    <date>2023-02-20</date>
+    <abstract>Discussing the safest anaesthesia practices for pediatric patients and how to adapt techniques for young children.</abstract>
+    <doi>10.1001/journalofanaesthesia.2023.02.020</doi>
+    <category>Anaesthesia</category>
+    <subcat>Paediatric</subcat>
+    <classic>true</classic>
+  </item>
+</channel>
+</rss>

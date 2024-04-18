@@ -1,0 +1,15 @@
+---
+pagetitle: "Daily Dose - Your daily update for critical care."
+title: "Home"
+page-layout: custom
+section-divs: false
+toc: false
+---
+
+:::{.banner .content-block}
+# Keep up with <span style="color:#009AF1">high-impact research</span>
+:::
+
+:::{.banner .content-block}
+# straight to your phone
+:::

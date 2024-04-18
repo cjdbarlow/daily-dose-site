@@ -1,0 +1,40 @@
+project:
+  type: website
+  preview: 
+    port: 6220
+  resources:
+    - feeds/anaes.xml
+    - feeds/anaes-classic.xml
+    - feeds/icm.xml
+    - feeds/icm-classic.xml
+    - feeds/em.xml
+    - feeds/em-classic.xml
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    toc-depth: 4
+
+website:
+  title: "the Daily Dose"
+  twitter-card: true
+  open-graph: true
+  favicon: favicon.png
+  navbar:
+    style: floating
+    background: secondary
+    search: true
+    collapse-below: lg
+    left:
+      - text: "Get Started"
+        href: index.qmd
+      - text: "Articles"
+        href: articles.qmd
+    right:
+      - icon: github
+        href: "https://github.com/cjdbarlow/daily-dose"

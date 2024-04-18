@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Daily Dose - EM</title>
+  <link>http://www.dailydose.icu</link>
+  <item>
+    <title>Emergency Medicine: An Overview</title>
+    <authors>Dr. Mark Silver, Dr. Lily Gold</authors>
+    <date>2023-03-25</date>
+    <abstract>An introductory guide to the principles of emergency medicine, including core concepts and practices.</abstract>
+    <doi>10.1001/journalofem.2023.03.025</doi>
+    <category>Emergency</category>
+    <subcat></subcat>
+  </item>
+  <item>
+    <title>Retrieval Medicine: Challenges and Solutions</title>
+    <abstract>Exploring the field of retrieval medicine within emergency care, focusing on logistical challenges and innovative solutions.</abstract>
+    <authors>Dr. Steve Cyan, Dr. Betty Magenta</authors>
+    <date>2023-03-05</date>
+    <doi>10.1001/journalofem.2023.03.005</doi>
+    <category>Emergency</category>
+    <subcat>Retrieval</subcat>
+  </item>
+  <item>
+    <title>Toxicological Emergencies: A Quick Guide</title>
+    <authors>Dr. Joe Quartz, Dr. Ellie Ruby</authors>
+    <date>2023-04-01</date>
+    <abstract>Understanding the rapid response required for toxicological emergencies and how to effectively manage these cases.</abstract>
+    <doi>10.1001/journalofem.2023.04.001</doi>
+    <category>Emergency</category>
+    <subcat>Tox</subcat>
+  </item>
+</channel>
+</rss>
